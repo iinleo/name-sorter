@@ -1,0 +1,16 @@
+C:\Users\suitmedia\source\repos\NameSorter\UnitTestProject1\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\suitmedia\source\repos\NameSorter\UnitTestProject1\obj\Debug\UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\suitmedia\source\repos\NameSorter\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\suitmedia\source\repos\NameSorter\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\suitmedia\source\repos\NameSorter\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\suitmedia\source\repos\NameSorter\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\suitmedia\source\repos\NameSorter\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\suitmedia\source\repos\NameSorter\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\suitmedia\source\repos\NameSorter\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\suitmedia\source\repos\NameSorter\UnitTestProject1\bin\Debug\NameSorter.exe
+C:\Users\suitmedia\source\repos\NameSorter\UnitTestProject1\bin\Debug\NameSorter.pdb
+C:\Users\suitmedia\source\repos\NameSorter\UnitTestProject1\bin\Debug\NameSorter.exe.config
+C:\Users\suitmedia\source\repos\NameSorter\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\suitmedia\source\repos\NameSorter\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\suitmedia\source\repos\NameSorter\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\suitmedia\source\repos\NameSorter\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

@@ -1,0 +1,7 @@
+C:\Users\suitmedia\source\repos\NameSorter\NameSorter\bin\Debug\NameSorter.exe.config
+C:\Users\suitmedia\source\repos\NameSorter\NameSorter\bin\Debug\NameSorter.exe
+C:\Users\suitmedia\source\repos\NameSorter\NameSorter\bin\Debug\NameSorter.pdb
+C:\Users\suitmedia\source\repos\NameSorter\NameSorter\obj\Debug\NameSorter.csprojResolveAssemblyReference.cache
+C:\Users\suitmedia\source\repos\NameSorter\NameSorter\obj\Debug\NameSorter.csproj.CoreCompileInputs.cache
+C:\Users\suitmedia\source\repos\NameSorter\NameSorter\obj\Debug\NameSorter.exe
+C:\Users\suitmedia\source\repos\NameSorter\NameSorter\obj\Debug\NameSorter.pdb
