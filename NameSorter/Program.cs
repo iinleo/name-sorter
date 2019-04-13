@@ -14,7 +14,7 @@ namespace NameSorter {
             INameListBuilder build = new NameListBuilder(path);
             build.Order();
             build.PrintList();
-            build.WriteFileTo("sorted-name-lists.txt");
+            build.WriteFileTo("sorted-name-list.txt");
             Console.WriteLine();
             Console.WriteLine("Press any key to exit");
             Console.ReadKey();
